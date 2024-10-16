@@ -31,11 +31,11 @@
 
 | FIELD      | VALUE |
 | ----------- | ----------- |
-| Version      | 1.0.8       |
-| Block   | [12542374](https://scan.coredao.org/block/12542374)  |
-| Link | https://snap.coredao.org/coredao-snapshot-mainnet-20240321.tar.lz4 |
-| MD5 | c991e25e0b9a1e294cecf6064c65aed7 |
-| Size | 1.75 TB |
+| Version      | 1.0.9       |
+| Block   | [17911939](https://scan.coredao.org/block/17911939)  |
+| Link | https://snap.coredao.org/coredao-snapshot-mainnet-20240922.tar.lz4 |
+| MD5 | eda5b77a97a690c0476bbc713d44e0bc |
+| Size | 2.61 TB |
 | Disk Suggestion | 4T or larger |
 
 ### TestNet
