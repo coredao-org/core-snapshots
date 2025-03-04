@@ -58,3 +58,14 @@
 | MD5 | e5af625b077281b7e0a464fe77631fba |
 | Size | 703 GB |
 | Disk Suggestion | 2T or larger |
+
+### TestNet2
+
+| FIELD      | VALUE |
+| ----------- | ----------- |
+| Version      | 1.0.15       |
+| Block   | [2616584](https://scan.test2.btcs.network/block/2616584)  |
+| Link | https://snap.coredao.org/coredao-snapshot-testnet2-20250304.tar.lz4 |
+| MD5 | 7851c6448721cdcff8cbda456f493a21 |
+| Size | 9.5 GB |
+| Disk Suggestion | 1T or larger |
