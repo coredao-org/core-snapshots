@@ -28,11 +28,11 @@
 
 | FIELD      | VALUE |
 | ----------- | ----------- |
-| Version      | 1.0.13       |
-| Block   | [2324371](https://scan.test2.btcs.network/block/2324371)  |
-| Link | https://snap.coredao.org/coredao-snapshot-testnet2-20250221-pruned.tar.lz4 |
-| MD5 | 12e1b6d7e76e4badba8ab40542167305 |
-| Size | 1.4 GB |
+| Version      | 1.0.16       |
+| Block   | [5240032](https://scan.test2.btcs.network/block/5240032)  |
+| Link | https://snap.coredao.org/coredao-snapshot-testnet2-20250603-pruned.tar.lz4 |
+| MD5 | 3f34f86881f1aed9f7a0d4536f27de6b |
+| Size | 5.4 GB |
 | Disk Suggestion | 1T or larger |
 
 ## Archive Full
