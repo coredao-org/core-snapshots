@@ -6,11 +6,11 @@
 
 | FIELD      | VALUE |
 | ----------- | ----------- |
-| Version      | 1.0.15       |
-| Block   | [23667175](https://scan.coredao.org/block/23667175)  |
-| Link | https://snap.coredao.org/coredao-snapshot-mainnet-20250411-pruned.tar.lz4 |
-| MD5 | e4003059ebe28435a44c8a5b2cd88f77 |
-| Size | 106 GB |
+| Version      | 1.0.19       |
+| Block   | [30073257](https://scan.coredao.org/block/30073257)  |
+| Link | https://snap.coredao.org/coredao-snapshot-mainnet-20251118-pruned.tar.lz4 |
+| MD5 | cd736e929ca03187211d3c2e4f18358a |
+| Size | 135.89 GB |
 | Disk Suggestion | 2T or larger |
 
 ### TestNet
